@@ -8,7 +8,8 @@ We have studied so far basics of JavaScript, HTML and CSS.
 In runing a group project we have learned to use 
 - GIT in program development, 
 - [SCRUM](https://www.scrum.org/) and what are the responsibilities of different roles
-- workmanagamnet tools (e.g. [Trello](https://trello.com/en))
+- work managamnet tools (e.g. [Trello](https://trello.com/en)) 
+
 And of course how to work in a group. 
   
   
