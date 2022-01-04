@@ -1,16 +1,41 @@
-### Hi there 👋
+# 👋 Hey, I'm Saara 
+  
+  
+I study Full Stack Web Development @ Business College Helsinki. Program started in August 2021 and ends in December 2022.  
+  
+  
+We have studied so far basics of JavaScript, HTML and CSS. 
+In runing a group project we have learned to use 
+- GIT in program development, 
+- [SCRUM](https://www.scrum.org/) and what are the responsibilities of different roles
+- workmanagamnet tools (e.g. [Trello](https://trello.com/en))
+And of course how to work in a group. 
+  
+  
+Currently we are learning REACT, NODE (with Express and EJS) and Datastructures. Here, in GitHub, I have basicly school projects and assigments.  
 
-<!--
-**SaaraLeppis/SaaraLeppis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+ &nbsp;  
+ 
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaaraLeppis&theme=chartreuse-dark&layout=compact)](https://github.com/SaaraLeppis/github-readme-stats)
 
-Here are some ideas to get you started:
+<!-- Statistics: https://github.com/anuraghazra/github-readme-stats -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ &nbsp;  
+ 
+I have experience in Sourcing and Purchase, International Trade, Product & Category Management related tasks through 20 years work experience as an agent. I have great knowledge of Chinese business culture and Supply Chain. 
+
+
+I have learned basics of Python, Java & C#. 
+  
+ &nbsp;  
+ 
+Reach me [thorugh LinkedIn](linkedin.com/in/saara-leppihalme) 
+
+ &nbsp;  
+ 
+🎿 ❄️ ⛷️   🏃‍♀️🌲🌳    ⛳    ☕   🐶
+
+
+<!-- Emojis: https://www.webfx.com/tools/emoji-cheat-sheet/ -->
