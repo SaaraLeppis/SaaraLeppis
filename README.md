@@ -5,7 +5,7 @@ I study Full Stack Web Development @ Business College Helsinki. Program started 
   
   
 We have studied basics of JavaScript, HTML and CSS, React and Node.  
-In group project (Moves-app in my repositories) we have learned to use 
+In group project ([movesapp](https://github.com/SaaraLeppis/movesapp) in my repositories) we have learned to use 
 - GIT in program development, 
 - [SCRUM](https://www.scrum.org/) and what are the responsibilities of different roles
 - work managamnet tools (e.g. [Trello](https://trello.com/en)) 
