@@ -6,14 +6,15 @@ I study Full Stack Web Development @ Business College Helsinki. Program started 
   
 We have studied basics of JavaScript, HTML and CSS, React and Node.  
 In group project ([movesapp](https://github.com/SaaraLeppis/movesapp) in my repositories) we have learned to use 
-- GIT in program development, 
+- GIT in softwaredevelopment 
 - [SCRUM](https://www.scrum.org/) and what are the responsibilities of different roles
 - work managamnet tools (e.g. [Trello](https://trello.com/en)) 
 
-And of course how to work in a group. 
+And of course how to work in a team. 
   
   
-Currently we are continuing with REACT, NODE (with Express and EJS) and TypeScript.  
+Currently we continue stdies with REACT, NODE (with Express and EJS) and TypeScript. 
+
 Here, in GitHub, I have basicly school projects and assigments.  
 
   
@@ -29,7 +30,7 @@ Here, in GitHub, I have basicly school projects and assigments.
 I have experience in Sourcing and Purchase, International Trade, Product & Category Management related tasks through 20 years work experience as an agent. I have great knowledge of Chinese business culture and Supply Chain. 
 
 
-I have learned basics of Python, Java & C#. 
+Earlier I have studied basics of Python, Java & C#. 
   
  &nbsp;  
  
