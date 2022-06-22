@@ -4,7 +4,7 @@
 I study Full Stack Web Development @ Business College Helsinki. Program started in August 2021 and ends in December 2022.  
   
   
-We have studied basics of JavaScript, HTML and CSS, React and Node.  
+We have studied basics of JavaScript, HTML and CSS, React, Node and TypeScript.  
 In group project ([movesapp](https://github.com/SaaraLeppis/movesapp) in my repositories) we have learned to use 
 - GIT in softwaredevelopment 
 - [SCRUM](https://www.scrum.org/) and what are the responsibilities of different roles
@@ -13,7 +13,7 @@ In group project ([movesapp](https://github.com/SaaraLeppis/movesapp) in my repo
 And of course how to work in a team. 
   
   
-Currently we continue stdies with REACT, NODE (with Express and EJS) and TypeScript. 
+Currently I am looking for an internship place and doing [Full stack open 2022 -course](https://fullstackopen.com/) to get more practice! 
 
 Here, in GitHub, I have basicly school projects and assigments.  
 
