@@ -1,22 +1,22 @@
 # 👋 Hey, I'm Saara 
   
-  
-I study Full Stack Web Development @Business College Helsinki. Program started in August 2021 and ends in March 2023. 
-  
-  
-We have studied basics of JavaScript, HTML and CSS, React, Node and TypeScript.  
+## Currently looking for a junior position   
+I have finished my Full Stack Web Development studies @Business College Helsinki early 2023.  
+Did my 6 months internship as Front-End Developer intern @Liana Technologies.   
+   
+Studies included basics of JavaScript, HTML and CSS, React, Node and TypeScript.  
 In group project ([movesapp](https://github.com/SaaraLeppis/movesapp) in my repositories) we have learned to use 
 - GIT in softwaredevelopment 
 - [SCRUM](https://www.scrum.org/) and what are the responsibilities of different roles
 - work managamnet tools (e.g. [Trello](https://trello.com/en)) 
 
-And of course how to work in a team. 
-  
-  
-Currently I am looking for a trainee / junior position after finishing my internship as Front-End Developer intern @Liana Technologies. 
-Last summer I did 5 ects of  [Full stack open 2022 -course](https://fullstackopen.com/) to get more practice! 
+And of course we learned a lot how to work in a team.   
 
-Here, in GitHub, I have basicly school projects and assigments.  
+I have also gained experience of system integrations from @Saranen Consulting Oy's Integration Academy program in 2023. 
+  
+I am proud of finishing  5 ects of  [Full stack open 2022 -course](https://fullstackopen.com/) to get more practice! 
+
+Here, in GitHub, I have basicly study projects, asignments and small own stuff. 
 
   
  &nbsp;  
