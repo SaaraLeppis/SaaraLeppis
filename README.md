@@ -14,7 +14,7 @@ And of course we learned a lot how to work in a team.
 
 I have also gained experience of system integrations from @Saranen Consulting Oy's Integration Academy program in 2023. 
   
-I am proud of finishing  5 ects of  [Full stack open 2022 -course](https://fullstackopen.com/) to get more practice! 
+I am proud of gaining  6 ects of  [Full stack open 2022 -course](https://fullstackopen.com/) to get more practice, recently (2/2024) I finished the [TypeScript part](https://github.com/SaaraLeppis/full-stack-open-9_2023)
 
 Here, in GitHub, I have basicly study projects, asignments and small own stuff. 
 
