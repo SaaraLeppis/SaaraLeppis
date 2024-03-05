@@ -14,9 +14,9 @@ And of course we learned a lot how to work in a team.
 
 I have also gained experience of system integrations from @Saranen Consulting Oy's Integration Academy program in 2023. 
   
-I am proud of gaining  6 ects of  [Full stack open 2022 -course](https://fullstackopen.com/) to get more practice, recently (2/2024) I finished the [TypeScript part](https://github.com/SaaraLeppis/full-stack-open-9_2023)
+I am proud of gaining  6 ects of  [Full stack open-course](https://fullstackopen.com/) to get more practice, recently (2/2024) I finished the [TypeScript part](https://github.com/SaaraLeppis/full-stack-open-9_2023)
 
-Here, in GitHub, I have basicly study projects, asignments and small own stuff. 
+Here, in GitHub, I have basicly study projects, assignments and small own stuff. 
 
   
  &nbsp;  
@@ -31,7 +31,7 @@ Here, in GitHub, I have basicly study projects, asignments and small own stuff.
 I have experience in Sourcing and Purchase, International Trade, Product & Category Management related tasks through 20 years work experience as an agent. I have great knowledge of Chinese business culture and Supply Chain. 
 
 
-Earlier I have studied basics of Python, Java & C#. 
+Familiarity also with basics of Python, Linux, Java & C#. 
   
  &nbsp;  
  
