@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Saara 
   
-## Currently looking for a junior position   
+## Currently working as a Service Desk Specialist @TietoEvry Banking
 I have finished my Full Stack Web Development studies @Business College Helsinki early 2023.  
 Did my 6 months internship as Front-End Developer intern @Liana Technologies.   
    
